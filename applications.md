@@ -2,9 +2,9 @@
 
 | Date | Company | Role | Portal | Score | Status | CV Used |
 |------|---------|------|--------|-------|--------|---------|
-| 2026-05-11 | Zenworx Knowledge Partners | AI Workflows & Automation Specialist | Naukri | A | Pending | CV_Zenworx_AIWorkflowsAutomationSpecialist_20260511.md |
-| 2026-05-11 | Adsrole | Shopify Developer | Naukri | B | Pending | CV_Adsrole_ShopifyDeveloper_20260511.md |
-| 2026-05-11 | Wayone IT Solution | Shopify Developer | Naukri | B | Pending | CV_Wayone_ShopifyDeveloper_20260511.md |
+| 2026-05-11 | Zenworx Knowledge Partners | AI Workflows & Automation Specialist | Naukri | A | ❌ Expired | CV_Zenworx_AIWorkflowsAutomationSpecialist_20260511.md |
+| 2026-05-11 | Adsrole | Shopify Developer | Naukri | B | ✅ Applied | CV_Adsrole_ShopifyDeveloper_20260511.md |
+| 2026-05-11 | Wayone IT Solution | Shopify Developer | Naukri | B | ❌ Expired | CV_Wayone_ShopifyDeveloper_20260511.md |
 | 2026-05-11 | Ens Enterprises | Shopify Developer / Designer | Naukri | B | Pending | CV_EnsEnterprises_ShopifyDeveloper_20260511.md |
 | 2026-05-11 | Backdrop Source | Shopify Developer Intern | Naukri | B | Pending | CV_BackdropSource_ShopifyDeveloperIntern_20260511.md |
 | 2026-05-11 | Shipgig Ventures | AI Workflow Trainee | Naukri | B | Pending | CV_Shipgig_AIWorkflowTrainee_20260511.md |
